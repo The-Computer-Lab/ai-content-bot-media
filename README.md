@@ -1,2 +1,3 @@
-# ai-content-bot-media
-ai-content-bot-media
+# AI Content Bot Media
+
+Public media files for the AI Content Bot.
